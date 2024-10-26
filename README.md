@@ -120,7 +120,8 @@ The platform empowers users by simplifying property transactions and offering a 
 ![Search Results](./outputs/file_2024-10-18_03.16.55.png)
 
 ## Database, Tables, and ER Diagram
-
+### 1. Output Tables
+![Output Tables](./database/Picture1.png)
 
 ---
 
