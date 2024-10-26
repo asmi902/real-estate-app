@@ -123,6 +123,18 @@ The platform empowers users by simplifying property transactions and offering a 
 ### 1. Output Tables
 ![Output Tables](./database/Picture1.png)
 
+### 2. Output Tables
+![Output Tables](./database/Picture2.png)
+
+### 3. Output Tables
+![Output Tables](./database/Picture3.png)
+
+### 4. Output Tables
+![Output Tables](./database/Picture4.png)
+
+### 5. E-R Diagram
+![E-R Diagram](./database/Picture5.png)
+
 ---
 
 This `README.md` outlines the project's scope, goals, and detailed requirements to guide users and contributors. Let me know if you want to add more details or specific instructions for running the project!
