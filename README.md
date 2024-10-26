@@ -106,6 +106,21 @@ The platform empowers users by simplifying property transactions and offering a 
 ### 3. User Search
 ![User Search](./outputs/file_2024-10-18_03.13.19.png)
 
+### 4. User Listings
+![User Listings](./outputs/file_2024-10-18_03.13.51.png)
+
+### 5. Add New Post
+![Add New Post](./outputs/file_2024-10-18_03.14.26.png)
+
+### 6. Search Listings
+![Search Listings](./outputs/file_2024-10-18_03.15.08.png)
+
+### 7. Saved List
+![Saved List](./outputs/file_2024-10-18_03.16.22.png)
+
+### 8. Search Results
+![Search Results](./outputs/file_2024-10-18_03.16.55.png)
+
 ## Database, Tables, and ER Diagram
 
 
