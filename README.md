@@ -1,9 +1,7 @@
 # Real Estate App
 
 ---
-Here's a comprehensive `README.md` for your project based on the provided information:
 
----
 
 # Real Estate Application
 
