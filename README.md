@@ -97,14 +97,14 @@ The platform empowers users by simplifying property transactions and offering a 
 
 
 ## Output Screenshots
-### 1. Property Search
-![Property Search](./outputs/file_2024-10-18_03.12.06.png)
+### 1. HomePage
+![HomePage](./outputs/file_2024-10-18_03.12.06.png)
 
-### 2. Chat Interface
-![Chat Interface](./assets/chat-interface.png)
+### 2. Sign Up Page
+![Sign Up Page](./outputs/file_2024-10-18_03.12.33.png)
 
-### 3. Image Upload Preview
-![Image Upload Preview](./assets/image-upload-preview.png)
+### 3. User Search
+![User Search](./outputs/file_2024-10-18_03.13.19.png)
 
 ## Database, Tables, and ER Diagram
 
