@@ -136,5 +136,3 @@ The platform empowers users by simplifying property transactions and offering a 
 ![E-R Diagram](./database/Picture5.png)
 
 ---
-
-This `README.md` outlines the project's scope, goals, and detailed requirements to guide users and contributors. Let me know if you want to add more details or specific instructions for running the project!
